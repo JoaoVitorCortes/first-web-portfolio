@@ -1,0 +1,15 @@
+.pirata-one-regular {
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+:root {
+  --background-hover: #f4f4f4;
+  --cor-destaque-palavra: #a10f0f;
+  --preto: #141414;
+  --cinza-escuro: #525252;
+  --branco: #ffffff;
+  --background-exp-container: #f5f5f5;
+  --exp-subtitulo: #e0e0e0;
+  --exp-subtitulo-dest: #b79191;
+}
