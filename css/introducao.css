@@ -9,7 +9,7 @@
 }
 
 .introducao h1 {
-  font-family: "Pirata One";
+  font-family: "Pirata One", "Fira Sans", Arial, sans-serif;
   font-size: 6rem;
   line-height: 96px;
   letter-spacing: 60%;
